@@ -1,9 +1,9 @@
-# Wideview Entertainment · ενημερώσεις εφαρμογών
+# Wideview Entertainment · App updates
 
-Από εδώ οι εγκατεστημένες εφαρμογές της Wideview Entertainment παίρνουν τις νέες εκδόσεις τους.
+Update channel for applications built and maintained by Wideview Entertainment.
 
-- Τα πακέτα είναι κρυπτογραφημένα και υπογεγραμμένα. Οι εφαρμογές εγκαθιστούν μόνο ό,τι φέρει την υπογραφή μας.
-- Ο κώδικας δεν βρίσκεται εδώ.
-- Κάθε εφαρμογή έχει δικό της φάκελο με δύο κανάλια: `stable.txt` για όλους τους υπολογιστές, `pilot.txt` για τη δοκιμή.
+- Every package is signed. Our apps install only what carries our signature.
+- Source code is not hosted here.
+- Each app has its own folder with two channels: `stable.txt` for all installations, `pilot.txt` for testing.
 
-© 2026 Wideview Entertainment. Με επιφύλαξη παντός δικαιώματος. · wideview.co
+© 2026 Wideview Entertainment. All rights reserved. · wideview.co
